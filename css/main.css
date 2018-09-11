@@ -1,3 +1,37 @@
 html {
   font-family: "Noto Sans Japanese", sans-serif;
 }
+
+nav {
+  text-align: center;
+}
+
+.logo-items {
+  text-align: center;
+}
+
+@media only screen and (min-width: 25em) {
+
+
+}
+
+@media only screen and (min-width: 38em) {
+
+
+}
+
+@media only screen and (min-width: 60em) {
+  nav {
+    text-align: right;
+  }
+
+  .logo-items {
+    text-align: left;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+
+}

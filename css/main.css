@@ -15,6 +15,10 @@ nav {
   border-bottom: 1px solid #e2e2e2;
 }
 
+.learn-more {
+  border-color: #0084a6;
+}
+
 @media only screen and (min-width: 25em) {
 
 

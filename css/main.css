@@ -1,5 +1,5 @@
 html {
-  font-family: "Noto Sans Japanese", sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 
 .skip-links a {
@@ -28,7 +28,7 @@ nav li a:hover {
   border-bottom: 2px solid #e2e2e2;
 }
 
-.learn-btn {
+.btn-ghost {
   border: 2px solid #8bc9d9;
   color: #005e76;
 }

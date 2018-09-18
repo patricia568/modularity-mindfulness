@@ -1,5 +1,5 @@
 html {
-  font-family: "Noto Sans", sans-serif;
+font-family: "Noto Sans Japanese", sans-serif
 }
 
 .skip-links a {
@@ -47,11 +47,6 @@ footer {
   color: #000;
 }
 
-@media only screen and (min-width: 25em) {
-
-
-}
-
 @media only screen and (min-width: 38em) {
 
   .box-3-content {
@@ -61,6 +56,7 @@ footer {
 }
 
 @media only screen and (min-width: 60em) {
+
   nav {
     text-align: right;
   }
@@ -72,10 +68,5 @@ footer {
   .box-3-content {
     padding-left: 0;
   }
-
-}
-
-@media only screen and (min-width: 90em) {
-
 
 }

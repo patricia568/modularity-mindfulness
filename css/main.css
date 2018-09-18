@@ -6,17 +6,32 @@ nav {
   text-align: center;
 }
 
+nav li a:hover {
+  border-bottom-style: dotted;
+}
+
 .logo-items {
   text-align: center;
 }
 
 .paragraph-1 {
-  border-top: 1px solid #e2e2e2;
-  border-bottom: 1px solid #e2e2e2;
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
 }
 
-.learn-more {
-  border-color: #0084a6;
+.learn-btn {
+  border: 2px solid #8bc9d9;
+  color: #005e76;
+}
+
+.nav-btn {
+  color: #005e76;
+  text-decoration: none;
+  border-bottom: 2px solid #8bc9d9;
+}
+
+main {
+  border-bottom: 2px solid #e2e2e2;
 }
 
 @media only screen and (min-width: 25em) {
